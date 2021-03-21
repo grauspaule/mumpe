@@ -67,21 +67,25 @@
         "coordinates":  [ 13.9609,46.7756]
       },
       "properties": {
-        "name": "Gnesau",
+        "name": "Nockalmstraße",
         "code": "Loco",
-        "distance": "40km",
+        "distance": "",
         "length": "",
         "elevation": {
           "min": "-10.000",
           "max": "+10.000"
         },
         "difficulty": "Moderate",
-        "gpx": "Gnesau.gpx",
+        "gpx": "Nockalm.gpx",
         "points": [
           {
-            "name": "Gnesau",
-            "coordinates": [ 13.9609,46.7756]
-          }
+            "name": "Feld am See",
+            "coordinates": [ 13.7474,46.7762]
+          },
+          {
+            "name": "Bad Kleinkirchheim",
+            "coordinates": [ 13.79823, 46.81465]
+          }, 
         ]
       }
     }

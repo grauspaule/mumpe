@@ -5,47 +5,31 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":  [13.61863372,47.05903505]
+        "coordinates":  [12.6142,46.7099]
       },
       "properties": {
-        "name": "XKnockOut",
+        "name": "Obertilliach",
         "code": "Loco",
-          "distance": "54",
-        "length": "16h",
+          "distance": "39",
+        "length": "",
         "elevation": {
           "min": "-10.000",
           "max": "+10.000"
         },
         "difficulty": "Moderate",
-        "gpx": "XKnockOut.gpx",
+        "gpx": "Obertilliach.gpx",
         "points": [
           {
-            "name": "Katschberg",
-            "coordinates": [13.61863372,47.05903505]
+            "name": "Obertilliach",
+            "coordinates": [12.6142,46.7099]
           },
           {
-            "name": "Aineck",
-            "coordinates": [13.6371,47.05553]
+            "name": "Kartitsch",
+            "coordinates": [12.49859,46.72507]
           },
           {
-            "name": "Grünleitennock",
-            "coordinates": [ 13.7507, 46.9548]
-          },
-          {
-            "name": "Königsstuhl",
-            "coordinates": [13.78458, 46.94385]
-          },
-          {
-            "name": "Mallnock",
-            "coordinates": [13.7696, 46.8764]
-          },
-          {
-            "name": "Rosennock",
-            "coordinates": [13.7124, 46.8769]
-          },
-                             {
-            "name": "Wiesennock",
-            "coordinates": [13.74178, 46.83671]
+            "name": "Untertilliach",
+            "coordinates": [ 12.6775, 46.7037]
           }
         ]
       }

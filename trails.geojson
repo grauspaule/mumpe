@@ -89,6 +89,18 @@
           {
             "name": "Ebene Reichenau",
             "coordinates": [ 13.8922, 46.8547]
+          }, 
+          {
+            "name": "Innerkrems",
+            "coordinates": [ 13.7266, 46.96822]
+          }, 
+          {
+            "name": "Gmünd",
+            "coordinates": [ 13.5369, 46.9062]
+          },
+          {
+            "name": "Rosennock",
+            "coordinates": [ 13.7123, 46.8768]
           }
         ]
       }

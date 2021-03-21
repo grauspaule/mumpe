@@ -85,6 +85,10 @@
           {
             "name": "Bad Kleinkirchheim",
             "coordinates": [ 13.79823, 46.81465]
+          },
+          {
+            "name": "Ebene Reichenau",
+            "coordinates": [ 13.8922, 46.8547]
           }
         ]
       }

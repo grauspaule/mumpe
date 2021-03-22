@@ -104,6 +104,43 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 15.8638,47.6945]
+      },
+      "properties": {
+        "name": "Mürztal",
+        "code": "Loco",
+        "distance": "",
+        "length": "",
+        "elevation": {
+          "min": "-10.000",
+          "max": "+10.000"
+        },
+        "difficulty": "Moderate",
+        "gpx": "Muerztal.gpx",
+        "points": [
+          {
+            "name": "Peyerbach",
+            "coordinates": [ 15.8638,47.6945]
+          },
+          {
+            "name": "Sankt Agyd am Neuwalde",
+            "coordinates": [ 15.5652, 47.8536]
+          },, 
+          {
+            "name": "Rohr im Gebirge",
+            "coordinates": [ 15.7343, 47.8955]
+          }, 
+          {
+            "name": "Mödling",
+            "coordinates": [ 16.28325, 48.08545]
+          }
+        ]
+      }
     }
       
     

@@ -109,6 +109,49 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":  [ 13.7474,46.7762]
+      },
+      "properties": {
+        "name": "XL.Mumpe",
+        "code": "Loco",
+        "distance": "190km",
+        "length": "",
+        "elevation": {
+          "min": "-10.000",
+          "max": "+10.000"
+        },
+        "difficulty": "Moderate",
+        "gpx": "XL_mumpe.gpx",
+        "points": [
+          {
+            "name": "Graz",
+            "coordinates": [ 15.41865,47.07307]
+          },
+          {
+            "name": "Gleisdorf",
+            "coordinates": [ 15.7066, 47.1068]
+          },
+          {
+            "name": "Hartberg",
+            "coordinates": [ 15.9685, 47.2813]
+          }, 
+          {
+            "name": "Wiener Neustadt",
+            "coordinates": [ 16.2344, 47.8134]
+          },
+          {
+            "name": "Wien",
+            "coordinates": [ 16.3713, 48.2079]
+          }
+        ]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":  [ 15.8638,47.6945]
       },
       "properties": {
